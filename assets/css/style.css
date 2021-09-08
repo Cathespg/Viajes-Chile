@@ -1,0 +1,10 @@
+body {
+    font-family: 'Raleway', sans-serif; 
+    background-color: black;
+}
+.img-nav {
+    width: 10%;
+}
+.navbar-brand {
+    font-weight: 600;
+}
