@@ -8,3 +8,6 @@ body {
 .navbar-brand {
     font-weight: 600;
 }
+.carousel {
+    padding-top: 2.5em;
+}
